@@ -12,7 +12,7 @@ _global_script_classes=[ {
 "base": "Node2D",
 "class": "Vertex",
 "language": "GDScript",
-"path": "res://scr/Vertex.gd"
+"path": "res://src/Vertex.gd"
 } ]
 _global_script_class_icons={
 "Vertex": ""

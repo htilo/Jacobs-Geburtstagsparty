@@ -1,4 +1,4 @@
-aextends Node
+extends Node
 
 var vertex = []
 var current_vertex
