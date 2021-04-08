@@ -1,0 +1,38 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+_global_script_classes=[ {
+"base": "Node2D",
+"class": "Vertex",
+"language": "GDScript",
+"path": "res://scr/Vertex.gd"
+} ]
+_global_script_class_icons={
+"Vertex": ""
+}
+
+[application]
+
+config/name="Jacobs Geburtstagsparty"
+run/main_scene="res://src/Startscreen.tscn"
+config/icon="res://icon.png"
+
+[autoload]
+
+Music="*res://src/Music.tscn"
+
+[display]
+
+window/size/width=1280
+window/size/height=720
+
+[rendering]
+
+environment/default_environment="res://default_env.tres"

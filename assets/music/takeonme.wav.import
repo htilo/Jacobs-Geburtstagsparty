@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/takeonme.wav-4fe10667094ab6034a5f8e71b7593ed4.sample"
+
+[deps]
+
+source_file="res://assets2/music2/takeonme.wav"
+dest_files=[ "res://.import/takeonme.wav-4fe10667094ab6034a5f8e71b7593ed4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
