@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/moonriver.wav-4171ea4185158e69eaeb2c52a9ebd1c7.sample"
+path="res://.import/moonriver.wav-53648cfe0e8ae82b93d04b3019340632.sample"
 
 [deps]
 
-source_file="res://assets2/music2/moonriver.wav"
-dest_files=[ "res://.import/moonriver.wav-4171ea4185158e69eaeb2c52a9ebd1c7.sample" ]
+source_file="res://assets/music/moonriver.wav"
+dest_files=[ "res://.import/moonriver.wav-53648cfe0e8ae82b93d04b3019340632.sample" ]
 
 [params]
 

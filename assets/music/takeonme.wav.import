@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/takeonme.wav-4fe10667094ab6034a5f8e71b7593ed4.sample"
+path="res://.import/takeonme.wav-8bfae4cc5f3e608f07380dec28f862a6.sample"
 
 [deps]
 
-source_file="res://assets2/music2/takeonme.wav"
-dest_files=[ "res://.import/takeonme.wav-4fe10667094ab6034a5f8e71b7593ed4.sample" ]
+source_file="res://assets/music/takeonme.wav"
+dest_files=[ "res://.import/takeonme.wav-8bfae4cc5f3e608f07380dec28f862a6.sample" ]
 
 [params]
 

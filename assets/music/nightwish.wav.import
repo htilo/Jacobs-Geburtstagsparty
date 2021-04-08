@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/nightwish.wav-3721871cccc998859b952b482ec110a4.sample"
+path="res://.import/nightwish.wav-9d90083d31c7ade845f894bd2a5bf6f4.sample"
 
 [deps]
 
-source_file="res://assets2/music2/nightwish.wav"
-dest_files=[ "res://.import/nightwish.wav-3721871cccc998859b952b482ec110a4.sample" ]
+source_file="res://assets/music/nightwish.wav"
+dest_files=[ "res://.import/nightwish.wav-9d90083d31c7ade845f894bd2a5bf6f4.sample" ]
 
 [params]
 

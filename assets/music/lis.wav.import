@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/lis.wav-51d80a0542d51f02a62f3d957ad2b0bf.sample"
+path="res://.import/lis.wav-93a5fbc315a5b6fb4449257b5ef14383.sample"
 
 [deps]
 
-source_file="res://assets2/music2/lis.wav"
-dest_files=[ "res://.import/lis.wav-51d80a0542d51f02a62f3d957ad2b0bf.sample" ]
+source_file="res://assets/music/lis.wav"
+dest_files=[ "res://.import/lis.wav-93a5fbc315a5b6fb4449257b5ef14383.sample" ]
 
 [params]
 
