@@ -20,7 +20,6 @@ func _ready():
 	init_music()
 	init_text()
 	update_text()
-	vertex[64].gameover = true
 
 func _on_Button0_pressed():
 	current_vertex = current_vertex.child[0]
@@ -30,7 +29,7 @@ func _on_Button0_pressed():
 func _on_Button1_pressed():
 	current_vertex = current_vertex.child[1]
 	update_music()
-	if current_vertex.gameover:
+	if current_vertex.textb == []:
 		get_tree().quit()
 	else:
 		update_text()
